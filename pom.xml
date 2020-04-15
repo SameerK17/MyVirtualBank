@@ -36,7 +36,7 @@
 			<artifactId>spring-data-jpa</artifactId>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java test-->
+		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java test2-->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
